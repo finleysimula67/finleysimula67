@@ -62,36 +62,6 @@ public class NabinOli {
 ![Maven](https://img.shields.io/badge/Maven-C71A36?style=for-the-badge&logo=Apache%20Maven&logoColor=white)
 ![Lombok](https://img.shields.io/badge/Lombok-BC4521?style=for-the-badge&logo=lombok&logoColor=white)
 
-<div align="center">
-
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=nabinoli99&theme=radical&hide_border=true)
-
-</div>
-
-## 🎯 Current Learning Path
-
-```mermaid
-graph LR
-    A[C/C++ Foundations] --> B[Java & OOP]
-    B --> C[Spring Boot]
-    C --> D[Spring Security]
-    D --> E[Microservices]
-    E --> F[System Design]
-
-    style C fill:#6DB33F
-    style D fill:#orange
-    style E fill:#2496ED
-```
-
-**2025-2026 Journey:**
-- ✅ Mastered C/C++ memory models and pointers
-- ✅ Deep dive into Java Collections & Multi-threading
-- ✅ Built transactional APIs with Spring Boot & JPA
-- 🔄 Currently: JWT authentication, OAuth2, Redis caching
-- 🎯 Next: System Design patterns and microservices
-
-<div align="center">
-
 ### 🔥 "First, solve the problem. Then, write the code."
 
 ![Visitors](https://api.visitorbadge.io/api/visitors?path=https%3A%2F%2Fgithub.com%2Fnabinoli99&label=Profile%20Views&countColor=%2337d67a&style=flat-square)
