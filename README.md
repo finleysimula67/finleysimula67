@@ -62,11 +62,5 @@ public class NabinOli {
 ![Maven](https://img.shields.io/badge/Maven-C71A36?style=for-the-badge&logo=Apache%20Maven&logoColor=white)
 ![Lombok](https://img.shields.io/badge/Lombok-BC4521?style=for-the-badge&logo=lombok&logoColor=white)
 
-### 🔥 "First, solve the problem. Then, write the code."
-
-![Visitors](https://api.visitorbadge.io/api/visitors?path=https%3A%2F%2Fgithub.com%2Fnabinoli99&label=Profile%20Views&countColor=%2337d67a&style=flat-square)
-
 ⭐️ From [nabinoli99](https://github.com/nabinoli99) | Always learning, always building 🚀 _ FinleySimula67
 > Nabin_StriveX <
-
-</div>
