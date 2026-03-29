@@ -19,7 +19,6 @@ public class NabinOli {
 
     public String[] getCurrentFocus() {
         return new String[]{
-            "Building production-ready REST APIs",
             "Mastering Spring Boot ecosystem",
             "Learning distributed systems & microservices",
             "Focusing on Spring Security"
@@ -27,9 +26,6 @@ public class NabinOli {
     }
 }
 ```
-
-🎯 **Backend Developer** specializing in **Java & Spring Boot**
-📚 17-year-old tech learner passionate about system architecture and scalable backend solutions
 
 ## 🛠️ Tech Stack
 
