@@ -16,14 +16,6 @@ public class NabinOli {
     private String education = "Class 12 @ Liverpool International College";
     private String location = "Kathmandu, Nepal";
     private String status = "AVAILABLE_FOR_INTERNSHIP";
-
-    public String[] getCurrentFocus() {
-        return new String[]{
-            "Mastering Spring Boot ecosystem",
-            "Learning distributed systems & microservices",
-            "Focusing on Spring Security"
-        };
-    }
 }
 ```
 
@@ -49,7 +41,6 @@ public class NabinOli {
 
 ### Databases
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)
 
 ### DevOps & Tools
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
