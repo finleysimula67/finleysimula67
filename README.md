@@ -3,7 +3,6 @@
 <div align="center">
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-nabinoli.vercel.app-blue?style=for-the-badge&logo=vercel)](https://nabinoli.vercel.app/)
-[![Email](https://img.shields.io/badge/Email-nabinstrivex@gmail.com-red?style=for-the-badge&logo=gmail&logoColor=white)](mailto:nabinstrivex@gmail.com)
 [![YouTube](https://img.shields.io/badge/YouTube-nabinstrivex99-red?style=for-the-badge&logo=youtube)](https://www.youtube.com/@nabinstrivex99)
 
 </div>
