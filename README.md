@@ -3,7 +3,6 @@
 <div align="center">
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-nabin--oli.com.np-blue?style=for-the-badge&logo=vercel)](https://nabin-oli.com.np)
-[![YouTube](https://img.shields.io/badge/YouTube-nabinstrivex99-red?style=for-the-badge&logo=youtube)](https://www.youtube.com/@nabinstrivex99)
 
 </div>
 
