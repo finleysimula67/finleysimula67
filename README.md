@@ -1,8 +1,8 @@
 # Hi there, I'm Nabin Oli 👋
 
 <div align="center">
-
-[![Portfolio](https://img.shields.io/badge/Portfolio-nabin--oli.com.np-blue?style=for-the-badge&logo=vercel)](https://nabin-oli.com.np)
+    
+[![Portfolio](https://img.shields.io/badge/Portfolio-nabin--oli.com.np-000000?style=for-the-badge&logo=googlechrome&logoColor=white)](https://nabin-oli.com.np)
 
 </div>
 
@@ -10,10 +10,10 @@
 
 ```java
 public class NabinOli {
-    private String role = "Backend Architect";
-    private String education = "Class 12 @ Liverpool International College";
-    private String location = "Kathmandu, Nepal";
-    private String status = "AVAILABLE_FOR_INTERNSHIP";
+    private String role = "Java Backend Developer";
+    private String focus = "Spring Boot • Microservices";
+    private String currentProject = "Know Nepal";
+    private String status = "Open to Internship Opportunities";
 }
 ```
 
@@ -41,5 +41,16 @@ public class NabinOli {
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=Postman&logoColor=white)
-![Maven](https://img.shields.io/badge/Maven-C71A36?style=for-the-badge&logo=Apache%20Maven&logoColor=white)
-![Lombok](https://img.shields.io/badge/Lombok-BC4521?style=for-the-badge&logo=lombok&logoColor=white)
+
+## 🚀 CI/CD Pipeline
+
+![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white)
+![Render](https://img.shields.io/badge/Render-000000?style=for-the-badge&logo=render&logoColor=46E3B7)
+![Vercel](https://img.shields.io/badge/Vercel-181717?style=for-the-badge&logo=vercel&logoColor=white)
+![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white)
+
+## 🐳 Containerization
+
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Docker Compose](https://img.shields.io/badge/Docker_Compose-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+
