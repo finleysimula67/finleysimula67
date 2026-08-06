@@ -11,7 +11,6 @@
 ```java
 public class NabinOli {
     private String role = "Java Backend Developer";
-    private String focus = "Spring Boot • Microservices";
     private String currentProject = "Know Nepal";
     private String status = "Open to Internship Opportunities";
 }
