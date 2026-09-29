@@ -18,10 +18,6 @@ Interested in backend engineering, computer systems, and software development.
   </a>
 </p>
 
-## 👨‍💻 About Me
-
-My current development focus is Java, Spring Boot, REST APIs, and PostgreSQL, while my Computer Engineering studies are building my foundation in computer systems, programming, networking, and engineering fundamentals. Currently building Know Nepal, an open-source project focused on organizing and making information about Nepal more accessible.
-
 ## 🛠️ Tech Stack
 
 ### Core Technologies
