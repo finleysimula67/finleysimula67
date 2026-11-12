@@ -1,7 +1,5 @@
 # Hi there, I'm Nabin Oli 👋
 
-### Computer Engineering Student & Java Backend Developer
-
 Currently pursuing a Bachelor's degree in Computer Engineering <br>
 at **Cosmos College of Management and Technology**.
 
@@ -10,12 +8,6 @@ at **Cosmos College of Management and Technology**.
     <img src="https://raw.githubusercontent.com/finleysimula67/finleysimula67/main/cosmos-college-logo.png" alt="Cosmos College" height="28">
   </a>
 </p>
-
-## 🌏 Know Nepal
-
-Contributing to **[Know Nepal](https://know-nepal.vercel.app/)**, a Nepal-focused knowledge platform providing structured information <br> about Nepal's geography, history, culture, destinations, and more.
-
-[Website](https://know-nepal.vercel.app/) 
 
 ## 🛠️ Tech Stack
 
